@@ -1,6 +1,6 @@
 # 💫 About Me: 
 ✨ Creating bugs since 2018.<br>📚 I'm currently learning Nest.JS.<br>🎯 Goals: Bug-free, smooth deploys, and telepathic requirements.<br>🎲 Fun fact: My best friend it’s good old Ctrl+Z.
-### OBS: this is a new github!
+### 💢OBS: this is a new github!💢
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josuekuhim) 
