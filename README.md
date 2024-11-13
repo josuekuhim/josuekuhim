@@ -1,5 +1,5 @@
 # 💫 About Me: 
-✨ Creating bugs since 2018.<br>📚 I'm currently learning Nest.JS.<br>🎯 Goals: Bug-free, smooth deploys, and telepathic requirements.<br>🎲 Fun fact: My best friend it’s good old Ctrl+Z.
+✨ Creating bugs since 2018.<br>📚 I'm currently learning Nest.JS.<br>🧙‍♂️ Currently building my personal project 'Grimoire'.<br>🎯 Goals: Bug-free, smooth deploys, and telepathic requirements.<br>🎲 Fun fact: My best friend it’s good old Ctrl+Z.
 ### 💢OBS: This is a new github!💢
 
 ## 🌐 Socials:
