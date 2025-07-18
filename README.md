@@ -1,32 +1,66 @@
-# 💫 About Me: 
-✨ Creating bugs since 2018.<br>📚 I'm currently learning Nest.JS.<br>🧙‍♂️ Currently building my personal project 'Grimoire'.<br>🎯 Goals: Bug-free, smooth deploys, and telepathic requirements.<br>🎲 Fun fact: My best friend it’s good old Ctrl+Z.
-### 💢OBS: This is a new github!💢
+# Josué Ribeiro
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josuekuhim) 
+**Software Engineer  |  Go · Java · Rust · PHP · C#**
 
-# 💻 Tech Stack:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/josuekuhim)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat\&logo=github\&logoColor=white)](https://github.com/josuekuhim)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
+
+## Professional Summary
+
+Since **2018** I have been designing, building, and maintaining resilient back‑end services and distributed systems for web and mobile applications. My core expertise lies in **Go, Java (Spring Boot), Rust, PHP (Laravel), and C# (.NET 8)**. I am passionate about clean architecture, automated testing, and continuous delivery pipelines that keep shipping friction‑free. On the front‑end, I craft responsive, component‑driven interfaces with **Next.js, Vue.js, and Angular**, ensuring cohesive user experiences across devices.
+
+I am currently specializing in **Go** microservices and **Java** enterprise back‑end architectures, focusing on concurrency, performance, and scalable system design while developing my personal knowledge‑management platform, **Grimoire**.
+
+---
+
+## Core Technologies
+
+| Category          | Tools & Frameworks                                               |
+| ----------------- | ---------------------------------------------------------------- |
+| **Languages**     | Go, Java 11‑21, Rust, PHP 8, C# 12, TypeScript, SQL              |
+| **Back‑End**      | Spring Boot, Laravel, .NET (ASP.NET Core), NestJS, Node.js       |
+| **Front‑End**     | React, Next.js, Vue.js, Angular, HTML 5, CSS 3/Sass              |
+| **DevOps**        | Docker, Docker Compose, Kubernetes, GitHub Actions, GitLab CI/CD |
+| **Databases**     | PostgreSQL, MySQL/MariaDB, MongoDB, Redis                        |
+| **Cloud & Infra** | AWS (ECS Fargate, RDS, S3), Azure App Service, Nginx, Traefik    |
+| **Testing**       | JUnit 5, Go testing, PHPUnit, xUnit, Jest                        |
+| **Collaboration** | Git, GitHub, GitLab, Jira, Agile/Scrum                           |
+
+---
+
+## Featured Projects
+
+| Project                              | Description                                                                                                                                       | Tech Highlights                               |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| **Grimoire** *(ongoing)*             | Personal knowledge‑management platform that unifies notes, tasks, and code snippets with full‑text search.                                        | Go • TypeScript • React • PostgreSQL • Docker |
+| **Multi‑tenant SaaS Billing Engine** | Designed and implemented a billing microservice supporting multiple tenants, currency conversion, and tiered pricing.                             | Java • Spring Boot • Redis • Kubernetes       |
+| **e‑Commerce API**                   | End‑to‑end development of a secure, JWT‑based API for a mid‑sized retailer, including integrations with payment gateways and logistics providers. | PHP • Laravel • MySQL • GitHub Actions        |
+
+> *More repositories and write‑ups can be found on my GitHub profile.*
+
+---
+
+## Professional Goals
+
+* Deliver **zero‑defect deployments** through rigorous automated testing and CI/CD.
+* Mentor junior developers and foster a culture of **knowledge sharing**.
+* Contribute to open‑source Go and Java projects that advance cloud‑native development.
+* Achieve **AWS Certified Solutions Architect – Associate** certification by Q4 2025.
+
+---
+
+## Get in Touch
+
+* **LinkedIn:** [https://www.linkedin.com/in/josuekuhim](https://www.linkedin.com/in/josuekuhim)
+* **E‑mail:** josue.ribeiro.dev (at) gmail.com
+* **Website / Blog (coming soon):** josueribeiro.dev
+
+I am open to discussing remote opportunities, collaboration on open‑source projects, and technical writing engagements.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josuekuhim&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
