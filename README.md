@@ -30,18 +30,6 @@ I am currently specializing in **Go** microservices and **Java** enterprise back
 
 ---
 
-## Featured Projects
-
-| Project                              | Description                                                                                                                                       | Tech Highlights                               |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| **Grimoire** *(ongoing)*             | Personal knowledge‑management platform that unifies notes, tasks, and code snippets with full‑text search.                                        | Go • TypeScript • React • PostgreSQL • Docker |
-| **Multi‑tenant SaaS Billing Engine** | Designed and implemented a billing microservice supporting multiple tenants, currency conversion, and tiered pricing.                             | Java • Spring Boot • Redis • Kubernetes       |
-| **e‑Commerce API**                   | End‑to‑end development of a secure, JWT‑based API for a mid‑sized retailer, including integrations with payment gateways and logistics providers. | PHP • Laravel • MySQL • GitHub Actions        |
-
-> *More repositories and write‑ups can be found on my GitHub profile.*
-
----
-
 ## Professional Goals
 
 * Deliver **zero‑defect deployments** through rigorous automated testing and CI/CD.
@@ -58,9 +46,3 @@ I am currently specializing in **Go** microservices and **Java** enterprise back
 * **Website / Blog (coming soon):** josueribeiro.dev
 
 I am open to discussing remote opportunities, collaboration on open‑source projects, and technical writing engagements.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josuekuhim&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
