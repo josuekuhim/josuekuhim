@@ -1,48 +1,70 @@
-# Josué Ribeiro
+<!-- ========================= -->
+<!--  GitHub Profile README    -->
+<!-- ========================= -->
 
-**Software Engineer  |  Go · Java · Rust · PHP · C#**
+<h1 align="center">Josué Ribeiro</h1>
+<p align="center">
+  <b>Software Engineer</b> • Back-end (APIs & Systems) • Cloud-ready delivery<br/>
+  PHP (Laravel) • Java (Spring Boot) • C# (ASP.NET Core) • Vue • Next.js • React • Tailwind
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/josuekuhim)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat\&logo=github\&logoColor=white)](https://github.com/josuekuhim)
+<p align="center">
+  <a href="https://www.linkedin.com/in/josuekuhim">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/josuekuhim">
+    <img src="https://img.shields.io/badge/GitHub-111?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:josue.ribeiro.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5571991500073">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
----
-
-## Professional Summary
-
-Since **2018** I have been designing, building, and maintaining resilient back‑end services and distributed systems for web and mobile applications. My core expertise lies in **Go, Java (Spring Boot), Rust, PHP (Laravel), and C# (.NET 8)**. I am passionate about clean architecture, automated testing, and continuous delivery pipelines that keep shipping friction‑free. On the front‑end, I craft responsive, component‑driven interfaces with **Next.js, Vue.js, and Angular**, ensuring cohesive user experiences across devices.
-
-I am currently specializing in **Go** microservices and **Java** enterprise back‑end architectures, focusing on concurrency, performance, and scalable system design while developing my personal knowledge‑management platform, **Grimoire**.
-
----
-
-## Core Technologies
-
-| Category          | Tools & Frameworks                                               |
-| ----------------- | ---------------------------------------------------------------- |
-| **Languages**     | Go, Java 11‑21, Rust, PHP 8, C# 12, TypeScript, SQL              |
-| **Back‑End**      | Spring Boot, Laravel, .NET (ASP.NET Core), NestJS, Node.js       |
-| **Front‑End**     | React, Next.js, Vue.js, Angular, HTML 5, CSS 3/Sass              |
-| **DevOps**        | Docker, Docker Compose, Kubernetes, GitHub Actions, GitLab CI/CD |
-| **Databases**     | PostgreSQL, MySQL/MariaDB, MongoDB, Redis                        |
-| **Cloud & Infra** | AWS (ECS Fargate, RDS, S3), Azure App Service, Nginx, Traefik    |
-| **Testing**       | JUnit 5, Go testing, PHPUnit, xUnit, Jest                        |
-| **Collaboration** | Git, GitHub, GitLab, Jira, Agile/Scrum                           |
-
----
-
-## Professional Goals
-
-* Deliver **zero‑defect deployments** through rigorous automated testing and CI/CD.
-* Mentor junior developers and foster a culture of **knowledge sharing**.
-* Contribute to open‑source Go and Java projects that advance cloud‑native development.
-* Achieve **AWS Certified Solutions Architect – Associate** certification by Q4 2025.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=josuekuhim&style=flat&color=0A66C2" />
+</p>
 
 ---
 
-## Get in Touch
+## About
 
-* **LinkedIn:** [https://www.linkedin.com/in/josuekuhim](https://www.linkedin.com/in/josuekuhim)
-* **E‑mail:** josue.ribeiro.dev (at) gmail.com
-* **Website / Blog (coming soon):** josueribeiro.dev
+Since 2018, I build and maintain production-grade **REST APIs**, **business systems**, and **back-end services** with a focus on reliability and clean architecture.  
+My core stack is **PHP (Laravel)**, **Java (Spring Boot)**, and **C# (.NET / ASP.NET Core)** — shipping systems that scale without turning the team into firefighters.
 
-I am open to discussing remote opportunities, collaboration on open‑source projects, and technical writing engagements.
+On the front-end, I deliver cohesive interfaces using **Vue**, **Next.js**, **React**, and **TailwindCSS** (clean UI, fast iteration, predictable components).
+
+> I like releases that are boring and logs that actually help. 😄
+
+---
+
+## What I do best
+
+- **Laravel / PHP:** REST APIs, auth, multi-tenant patterns, queues, jobs, events, caching, testing
+- **Spring Boot / Java:** layered architecture, domain boundaries, integrations, performance, scalable APIs
+- **ASP.NET Core / C#:** clean services, EF Core, API design, validation, authentication, background workers
+- **Delivery:** Docker, CI/CD pipelines, environment parity, pragmatic observability
+- **Team impact:** mentoring, code reviews, documentation, and standards that reduce rework
+
+---
+
+## Currently Studying
+
+- **Rust** — systems programming, performance, memory safety, web3, infra, storage and building reliable services
+
+## Core Stack
+
+### Back-end
+- **PHP:** Laravel, PHPUnit, queues/jobs, caching, REST APIs
+- **Java:** Spring Boot, JUnit 5, modular services, integrations
+- **C#:** .NET 8, ASP.NET Core, xUnit, EF Core
+
+### Front-end
+- **Vue** • **Next.js** • **React** • **TailwindCSS**
+
+### Databases & Infra
+- PostgreSQL • MySQL/MariaDB • Redis  
+- Docker • Docker Compose • GitHub Actions / GitLab CI  
+- AWS (ECS Fargate, RDS, S3) • Azure App Service • Nginx • Traefik
