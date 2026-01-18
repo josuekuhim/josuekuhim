@@ -57,17 +57,7 @@ I build and maintain production-grade **REST APIs**, **business systems**, and *
 
 - **Rust** — systems programming, performance, memory safety, infra, storage, web3 and building reliable services
 
-## 📈 GitHub Stats (aesthetic mode)
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=josuekuhim&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuekuhim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"
-/>
+## 📈 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=josuekuhim&theme=tokyo-night&hide_border=true&radius=12" />
