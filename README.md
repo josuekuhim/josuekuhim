@@ -29,7 +29,7 @@
   <img src="https://komarev.com/ghpvc/?username=josuekuhim&style=flat&color=0A66C2" />
 </p>
 
-## 🤖 About Me
+## ☕ About Me
 
 I build and maintain production-grade **REST APIs**, **business systems**, and **back-end services** since 2018 — aiming for reliability, clean boundaries, and boring deploys (the best kind).
 
@@ -63,11 +63,7 @@ I build and maintain production-grade **REST APIs**, **business systems**, and *
   <img src="https://skillicons.dev/icons?i=rust&perline=10" />
 </p>
 
-- **Rust** — systems programming, performance, memory safety, and building reliable services
-
-<p align="center">
-  ────────────────  ★  ────────────────
-</p>
+- **Rust** — systems programming, performance, memory safety, infra, storage, web3 and building reliable services
 
 ## 📈 GitHub Stats (aesthetic mode)
 
@@ -86,10 +82,6 @@ I build and maintain production-grade **REST APIs**, **business systems**, and *
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=josuekuhim&theme=tokyo-night&hide_border=true&radius=12" />
-</p>
-
-<p align="center">
-  ────────────────  ☕  ────────────────
 </p>
 
 ## 🤝 Contact
