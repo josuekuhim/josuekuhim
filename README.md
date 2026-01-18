@@ -1,11 +1,13 @@
-<!-- ========================= -->
-<!--  GitHub Profile README    -->
-<!-- ========================= -->
+<!--
+  README "tumblr style" — clean, cute, recruiter-friendly.
+  Tip: se quiser trocar a paleta, mude o parâmetro `theme=` nos widgets.
+-->
 
-<h1 align="center">Josué Ribeiro</h1>
+<h1 align="center">Josué Kuhim</h1>
+
 <p align="center">
-  <b>Software Engineer</b> • Back-end (APIs & Systems) • Cloud-ready delivery<br/>
-  PHP (Laravel) • Java (Spring Boot) • C# (ASP.NET Core) • Vue • Next.js • React • Tailwind
+  <b>Software Engineer</b> • Back-end (APIs & Systems) • Clean Architecture • CI/CD <br/>
+  <i>Laravel • Spring Boot • ASP.NET Core • Vue • Next.js • React • Tailwind</i>
 </p>
 
 <p align="center">
@@ -27,44 +29,75 @@
   <img src="https://komarev.com/ghpvc/?username=josuekuhim&style=flat&color=0A66C2" />
 </p>
 
----
+## 🤖 About Me
 
-## About
+I build and maintain production-grade **REST APIs**, **business systems**, and **back-end services** since 2018 — aiming for reliability, clean boundaries, and boring deploys (the best kind).
 
-Since 2018, I build and maintain production-grade **REST APIs**, **business systems**, and **back-end services** with a focus on reliability and clean architecture.  
-My core stack is **PHP (Laravel)**, **Java (Spring Boot)**, and **C# (.NET / ASP.NET Core)** — shipping systems that scale without turning the team into firefighters.
+- **Back-end focus:** PHP (**Laravel**), Java (**Spring Boot**), C# (**ASP.NET Core / .NET 8**)
+- **Front-end:** **Vue**, **Next.js**, **React**, **TailwindCSS**
+- **Delivery mindset:** Docker, CI/CD, environment parity, pragmatic observability
 
-On the front-end, I deliver cohesive interfaces using **Vue**, **Next.js**, **React**, and **TailwindCSS** (clean UI, fast iteration, predictable components).
+> “If it can’t be tested and deployed predictably, it’s just a hobby with deadlines.”
 
-> I like releases that are boring and logs that actually help. 😄
+<p align="center">
+  ────────────────  ✦  ────────────────
+</p>
 
----
+## 🧰 Tech I Use (and ship with)
 
-## What I do best
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,cs,dotnet,vue,nextjs,react,tailwind,postgres,mysql,redis,docker,githubactions,aws,azure,kubernetes,nginx,linux&perline=10" />
+</p>
 
-- **Laravel / PHP:** REST APIs, auth, multi-tenant patterns, queues, jobs, events, caching, testing
-- **Spring Boot / Java:** layered architecture, domain boundaries, integrations, performance, scalable APIs
-- **ASP.NET Core / C#:** clean services, EF Core, API design, validation, authentication, background workers
-- **Delivery:** Docker, CI/CD pipelines, environment parity, pragmatic observability
-- **Team impact:** mentoring, code reviews, documentation, and standards that reduce rework
+<p align="center">
+  <sub>Stacks I enjoy: modular systems, clean architecture, tests that prevent regressions, and pipelines that don’t cry.</sub>
+</p>
 
----
+<p align="center">
+  ────────────────  ✿  ────────────────
+</p>
 
-## Currently Studying
+## 📚 Currently Studying
 
-- **Rust** — systems programming, performance, memory safety, web3, infra, storage and building reliable services
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust&perline=10" />
+</p>
 
-## Core Stack
+- **Rust** — systems programming, performance, memory safety, and building reliable services
 
-### Back-end
-- **PHP:** Laravel, PHPUnit, queues/jobs, caching, REST APIs
-- **Java:** Spring Boot, JUnit 5, modular services, integrations
-- **C#:** .NET 8, ASP.NET Core, xUnit, EF Core
+<p align="center">
+  ────────────────  ★  ────────────────
+</p>
 
-### Front-end
-- **Vue** • **Next.js** • **React** • **TailwindCSS**
+## 📈 GitHub Stats (aesthetic mode)
 
-### Databases & Infra
-- PostgreSQL • MySQL/MariaDB • Redis  
-- Docker • Docker Compose • GitHub Actions / GitLab CI  
-- AWS (ECS Fargate, RDS, S3) • Azure App Service • Nginx • Traefik
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=josuekuhim&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuekuhim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=josuekuhim&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=josuekuhim&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josuekuhim&theme=tokyo-night&hide_border=true&radius=12" />
+</p>
+
+<p align="center">
+  ────────────────  ☕  ────────────────
+</p>
+
+## 🤝 Contact
+
+- LinkedIn: https://www.linkedin.com/in/josuekuhim  
+- Email: josue.ribeiro.dev (at) gmail.com  
+- WhatsApp: +55 71 99150-0073
+
+<p align="center">
+  <sub>Open to remote opportunities, OSS collaboration, and building products with strong engineering foundations.</sub>
+</p>
