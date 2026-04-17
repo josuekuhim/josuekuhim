@@ -13,11 +13,11 @@
 
 ---
 
-**PHP · Laravel · Java · Spring Boot · TypeScript · Vue · Next.js · React · Tailwind**  
+**PHP · Laravel · Java · Spring Boot · Python · Django · TypeScript · Vue · Next.js · React · Tailwind**  
 **PostgreSQL · Redis · Docker · CI/CD · AWS · Kubernetes**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,ts,vue,nextjs,react,tailwind,postgres,redis,docker,githubactions,aws&perline=14" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,django,ts,vue,nextjs,react,tailwind,postgres,redis,docker,githubactions,aws&perline=14" />
 </p>
 
 Currently studying **Apache Kafka**.
