@@ -1,25 +1,16 @@
 # Josué Kuhim [new]
 
-**Senior Backend Engineer · Python**
+## Backend & Product Engineer
+Python · Distributed Systems · Cloud Infrastructure · AI Engineering
 
-Backend engineering focused on scalable APIs, distributed systems, and reliable software.
+I build reliable backend systems and end-to-end software products, with a focus on scalable APIs, system integrations, distributed architectures and production AI workflows.
 
-[LinkedIn](https://www.linkedin.com/in/josuekuhim) · [Email](mailto:josuekuhim.dev@gmail.com)
+### Core Technologies
 
-### Stack
+Python · FastAPI · Django · PostgreSQL · Redis · AWS · Docker · TypeScript · React · Next.js
 
-**Languages:** Python · SQL · TypeScript · C#
+### Engineering Interests
 
-**Backend:** FastAPI · Django · REST APIs · Microservices
-
-**Data:** PostgreSQL · Redis · Kafka
-
-**Infrastructure:** Docker · AWS · CI/CD · Linux
-
-**Practices:** System Design · Clean Architecture · Automated Testing
-
----
-
-Currently exploring distributed systems and event-driven architecture.
+Distributed systems, financial infrastructure, developer tooling, AI-powered products and backend architecture.
 
 Open to remote opportunities.
