@@ -1,5 +1,7 @@
 # Josué Kuhim [new]
 
+Currently studying **AI/ML Engineering**
+
 ## Backend & Product Engineer
 Python · Distributed Systems · Cloud Infrastructure · AI/ML Engineering
 
@@ -11,6 +13,6 @@ Python · FastAPI · Django · PostgreSQL · Redis · AWS · Docker · TypeScrip
 
 ### Engineering Interests
 
-AI/ML Engineering, distributed systems, financial infrastructure, developer tooling, AI-powered products and backend architecture.
+Distributed systems, financial infrastructure, developer tooling, AI-powered products and backend architecture.
 
 Open to remote opportunities.
