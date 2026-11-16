@@ -1,7 +1,7 @@
 # Josué Kuhim [new]
 
 ## Backend & Product Engineer
-Python · Distributed Systems · Cloud Infrastructure · AI Engineering
+Python · Distributed Systems · Cloud Infrastructure · AI/ML Engineering
 
 I build reliable backend systems and end-to-end software products, with a focus on scalable APIs, system integrations, distributed architectures and production AI workflows.
 
@@ -11,6 +11,6 @@ Python · FastAPI · Django · PostgreSQL · Redis · AWS · Docker · TypeScrip
 
 ### Engineering Interests
 
-Distributed systems, financial infrastructure, developer tooling, AI-powered products and backend architecture.
+AI/ML Engineering, distributed systems, financial infrastructure, developer tooling, AI-powered products and backend architecture.
 
 Open to remote opportunities.
